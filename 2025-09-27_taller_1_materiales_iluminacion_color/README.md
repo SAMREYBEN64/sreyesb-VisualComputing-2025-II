@@ -137,10 +137,8 @@ Esta paleta asegura contrastes perceptuales altos entre los elementos principale
 
 ## 🖼️ Capturas de pantalla obligatorias
 
-> **Coloca aquí tus capturas en una carpeta `captures/` y enlázalas así:**
->
 > - ![Vista general diurna](renders/vista_general_dia.png)
-> - ![Vista general atardecer](renders/vista_general_tarde.png)
+> - ![Vista general atardecer](renders/vista_general_atardecer.png)
 > - ![Detalle materiales PBR](renders/materiales_pbr.png)
 > - ![Animación de humo y mar](renders/shaders_animados.png)
 
