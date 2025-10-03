@@ -148,8 +148,6 @@ Esta paleta asegura contrastes perceptuales altos entre los elementos principale
 
 ## 🎞️ GIFs animados / video corto obligatorios
 
-> **Coloca aquí los GIFs o videos en una carpeta `gifs/` o `videos/` y enlázalos así:**
->
 > - **Cambio de materiales bajo distinta luz:**  
 >   ![Cambio materiales](renders/cambio_materiales.gif)
 >
