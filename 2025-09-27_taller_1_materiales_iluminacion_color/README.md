@@ -135,21 +135,21 @@ Esta paleta asegura contrastes perceptuales altos entre los elementos principale
 
 ---
 
-## 🖼️ Capturas de pantalla obligatorias
+## 🖼️ Capturas de pantalla
 
-> **Coloca aquí tus capturas en una carpeta `captures/` y enlázalas así:**
->
+> - **Vista general diurna:**
 > - ![Vista general diurna](renders/vista_general_dia.png)
-> - ![Vista general atardecer](renders/vista_general_tarde.png)
+> - > - **Vista general atardecer:**
+> - ![Vista general atardecer](renders/vista_general_atardecer.png)
+> - > - **Detalle materiales PBR:**
 > - ![Detalle materiales PBR](renders/materiales_pbr.png)
+> - > - **Animación de humo y mar:**
 > - ![Animación de humo y mar](renders/shaders_animados.png)
 
 ---
 
-## 🎞️ GIFs animados / video corto obligatorios
+## 🎞️ GIFs animados
 
-> **Coloca aquí los GIFs o videos en una carpeta `gifs/` o `videos/` y enlázalos así:**
->
 > - **Cambio de materiales bajo distinta luz:**  
 >   ![Cambio materiales](renders/cambio_materiales.gif)
 >
